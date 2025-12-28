@@ -50,7 +50,7 @@ The system follows a modern RAG pipeline architecture:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YourUsername/DocuMind-AI-Assistant.git
+git clone https://github.com/ParanoidNull/DocuMind-AI-Assistant.git
 cd DocuMind-AI-Assistant
 
 # 2. Create & Activate Virtual Environment (Windows)
@@ -248,8 +248,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YourUsername](https://github.com/YourUsername)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- GitHub: [@ParanoidNull](https://github.com/ParanoidNull)
 
 ---
 
@@ -262,15 +261,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
-
-If you encounter any issues or have questions:
-
-1. Check the [Troubleshooting](#-troubleshooting) section
-2. Open an [Issue](https://github.com/YourUsername/DocuMind-AI-Assistant/issues)
-3. Contact via email: your.email@example.com
-
----
 
 <div align="center">
 
